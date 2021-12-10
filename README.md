@@ -10,5 +10,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivtkac&hide=html,css)
-![ivtkac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivtkac)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivtkac&hide=html,css&exclude_repo=dotfiles&theme=merko)
+![ivtkac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivtkac&show_icons=true&theme=merko)
