@@ -3,7 +3,7 @@
 [![Spotify](https://novatorem-ivtkac.vercel.app/api/spotify)](https://open.spotify.com/user/xwttxzrlc73pdiclegkcv1ts7)
 
 - 👀 I’m interested in web, apps, data and games.
-- 🌱 I’m currently learning C++, Java.
+- 🌱 I’m currently learning C++, Rust.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 Mail: ivtkac@gmail.com
 
