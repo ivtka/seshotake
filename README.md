@@ -9,5 +9,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivtkac&hide=html,css&exclude_repo=dotfiles)
-![ivtkac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivtkac&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivtkac&hide=html,css,vue&exclude_repo=dotfiles,nvim,fish,web-labs&langs_count=10&layout=compact&theme=merko)
+![ivtkac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivtkac&show_icons=true&theme=merko)
